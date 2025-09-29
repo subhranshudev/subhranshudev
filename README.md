@@ -48,7 +48,7 @@
 
 ###
 <h2 align="left">Contact with me</h2>
-###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/subhranshu-sekhar-swain-5493a3286/" target="_blank">
