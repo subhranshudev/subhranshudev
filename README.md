@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Subhranshu and I'm an aspiring Software Engineer, from India</p>
+<p align="left">I'm Subhranshu, an aspiring Software Engineer, from India</p>
 
 ###
 
