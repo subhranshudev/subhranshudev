@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently mastering DSA and Web Devlopment and exploriing the AI world<br>🎯 Goals: A nerd in Software Engineering and building cool stuffs</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently mastering DSA and Web Devlopment and exploring the AI world<br>🎯 Goals: A nerd in Software Engineering and building cool stuffs</p>
 
 ###
 
