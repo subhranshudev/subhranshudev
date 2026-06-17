@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I'm Subhranshu</h1>
 
 ###
 
-<p align="left">I'm Subhranshu, an aspiring Software Engineer, from India</p>
+<p align="left">I am a Web Devloper and AI enthusiast.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning DSA and Web Devlopment<br>🎯 Goals: A nerd in Software and building cool stufs</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently mastering DSA and Web Devlopment and exploriing the AI world<br>🎯 Goals: A nerd in Software Engineering and building cool stuffs</p>
 
 ###
 
